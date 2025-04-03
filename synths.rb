@@ -1,0 +1,9 @@
+use_synth :growl
+play 38
+sleep 1
+use_synth :dsaw
+play 38
+sleep 1
+use_synth :blade
+play 50
+sleep 0.5
